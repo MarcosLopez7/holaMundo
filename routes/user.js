@@ -4,5 +4,5 @@
  */
 
 exports.list = function(req, res){
-  res.send("respond with a resource");
+  res.send("Esto ya es mi tarea de la clase raul");
 };
